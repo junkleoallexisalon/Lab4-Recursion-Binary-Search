@@ -1,12 +1,12 @@
-/* Description: <Describe what this program does briefly>
+/* Description: This program uses recursive binary search on a sorted array. It checks the middle element and narrows left or right until it finds the target.
 
-Programmed by: <your name> <course> <cn> <subject>
+Programmed by: Jun Kleo Allexis D. Alon BSIT 48079 DATA STRUCTURES AND ALGORTHMS
 
-Last Modified: <date of latest revision>
+Last Modified: September 10, 2026
 
-Version: <version number>
+Version: 1.0.
 
-[Acknowledgements: <list of sites and or sources, generative AI used and with the prompt>]
+[Acknowledgements: ChatGPT was used to assist with the program and documentation.
 
 */
 
